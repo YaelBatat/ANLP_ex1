@@ -1,6 +1,7 @@
-# BERT Fine-tuning for MRPC Dataset
+# # Advanced NLP Exercise 1: Fine-Tuning on MRPC
 
-This repository contains code for fine-tuning a BERT model on the MRPC dataset for paraphrase detection as part of the Advanced NLP course assignment.
+This repository contains the code and report for Exercise 1 of the Advanced NLP course at Hebrew University.  
+The task is to fine-tune a pretrained BERT model on the **MRPC** dataset (a paraphrase detection task) using Hugging Face Transformers.
 
 📁 Files
 	•	ex1.py: Main script for training, evaluation, prediction, and model comparison.
@@ -46,7 +47,7 @@ python ex1.py \
 
 This will:
 - Generate test set predictions
-- Save them in `predictions.txt` (for submission)
+- Save them in `predictions.txt` 
 
 ### 🔬 Compare models (qualitative analysis):
 
