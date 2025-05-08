@@ -1,0 +1,65 @@
+Example 90
+Sentence 1: However , Lapidus expects foreign brands ' sales to be up 4 percent , driven by strong truck sales at Honda Motor Co .
+Sentence 2: Lapidus expects Ford to be down 5 percent , Chrysler down 10 percent and foreign brands up 4 percent driven by strong truck sales at Honda .
+True Label: 0, Best Pred: 0, Worst Pred: 1
+------------------------------------------------------------
+Example 93
+Sentence 1: Indonesia 's army has often been accused of human rights abuses during GAM 's battle for independence , charges it has generally denied while accusing the separatists of committing rights violations .
+Sentence 2: Indonesia 's army has been accused of human rights abuses during its earlier battles with GAM , charges it has generally denied .
+True Label: 0, Best Pred: 0, Worst Pred: 1
+------------------------------------------------------------
+Example 133
+Sentence 1: In fiction : Edward P. Jones ( " The Known World " ) and Scott Spencer ( " A Ship Made of Paper " ) .
+Sentence 2: The fifth nominee for fiction is Scott Spencer , for A Ship Made of Paper .
+True Label: 0, Best Pred: 0, Worst Pred: 1
+------------------------------------------------------------
+Example 158
+Sentence 1: Morrill 's wife , Ellie , sobbed and hugged Bondeson 's sister-in-law during the service .
+Sentence 2: At the service Morrill 's widow , Ellie , sobbed and hugged Bondeson 's sister-in-law as people consoled her .
+True Label: 0, Best Pred: 0, Worst Pred: 1
+------------------------------------------------------------
+Example 167
+Sentence 1: Christina 's aunt , Shelley Riling , said the defense 's claims were preposterous .
+Sentence 2: Christina 's aunt , Shelley Riling , said she will address the court .
+True Label: 0, Best Pred: 0, Worst Pred: 1
+------------------------------------------------------------
+Example 218
+Sentence 1: White , who had suffered kidney failure from years of high blood pressure , died at Cedars-Sinai Medical Center around 9 : 30 a.m. , said manager Ned Shankman .
+Sentence 2: White , who had kidney failure from years of high blood pressure , had been undergoing dialysis and had been hospitalized since a September stroke .
+True Label: 0, Best Pred: 0, Worst Pred: 1
+------------------------------------------------------------
+Example 278
+Sentence 1: Because of the accounting charge , the company now says it lost $ 1.04 billion , or 32 cents a share , in the quarter ended June 30 .
+Sentence 2: Including the charge , the Santa Clara , Calif.-based company said Monday it lost $ 1.04 billion , or 32 cents per share , in the period ending June 30 .
+True Label: 1, Best Pred: 1, Worst Pred: 0
+------------------------------------------------------------
+Example 290
+Sentence 1: The state 's House delegation currently consists of 17 Democrats and 15 Republicans .
+Sentence 2: Democrats hold a 17-15 edge in the state 's U.S. House delegation .
+True Label: 1, Best Pred: 1, Worst Pred: 0
+------------------------------------------------------------
+Example 324
+Sentence 1: Clinton did not mention that two Democratic senators , Charles Robb of Virginia and Wendell Ford of Kentucky , voted to shelve the McCain bill .
+Sentence 2: Two Democrats , Sen. Charles Robb of Virginia and Wendell Ford of Kentucky , voted with the 40 Republicans .
+True Label: 0, Best Pred: 0, Worst Pred: 1
+------------------------------------------------------------
+Example 345
+Sentence 1: In May , Mr. Hatfill said he was struck by a vehicle being driven by an FBI employee who was tailing him in Georgetown .
+Sentence 2: Last May , Hatfill was struck by a vehicle being driven by an FBI employee who was tailing him in Washington 's Georgetown neighborhood .
+True Label: 1, Best Pred: 1, Worst Pred: 0
+------------------------------------------------------------
+Example 362
+Sentence 1: Nelson , 27 , is being retried on civil-rights charges stemming from the disturbance which led to Rosenbaum 's death .
+Sentence 2: Nelson , 27 , is being retried on civil rights charges stemming from the disturbance that led to Rosenbaum 's death .
+True Label: 1, Best Pred: 1, Worst Pred: 0
+------------------------------------------------------------
+Example 375
+Sentence 1: The euro was at 1.5281 versus the Swiss franc EURCHF = , up 0.2 percent on the session , after hitting its highest since mid-2001 around 1.5292 earlier in the session .
+Sentence 2: The euro was steady versus the Swiss franc after hitting its highest since mid-2001 of 1.5261 earlier in the session .
+True Label: 0, Best Pred: 0, Worst Pred: 1
+------------------------------------------------------------
+Example 387
+Sentence 1: " It 's a major victory for Maine , and it 's a major victory for other states .
+Sentence 2: The Maine program could be a model for other states .
+True Label: 0, Best Pred: 0, Worst Pred: 1
+------------------------------------------------------------
