@@ -13,7 +13,7 @@ The task is to fine-tune a pretrained BERT model on the **MRPC** dataset (a para
 
 ## 🚀 How to Run
 
-### 1️⃣ Install Dependencies
+### 🛠 Install dependencies:
 
 ```bash
 pip install -r requirements.txt
