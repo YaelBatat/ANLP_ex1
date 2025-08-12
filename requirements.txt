@@ -1,6 +1,6 @@
-datasets==3.6.0
-evaluate==0.4.3
-numpy==2.2.5
-torch==2.2.2
-transformers==4.51.3
-wandb==0.19.11
+datasets==4.0.0
+evaluate==0.4.5
+numpy==2.3.2
+torch==2.8.0
+transformers==4.55.0
+wandb==0.21.1
